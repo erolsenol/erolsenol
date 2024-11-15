@@ -22,11 +22,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img src="Jsdelivr vue svg desen çıkmaz mı/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vuetify.svg" height="30" alt="vuetify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vuetify.js" height="30" alt="vuetify logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/antdesign.svg" height="30" alt="antdesign.svg logo"  />
   <img width="12" />
