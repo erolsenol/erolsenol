@@ -1,34 +1,55 @@
-<h2 align="left">Hi 👋 My name is Erol and I'm a frontend developer, from İstanbul/Türkiye</h2>
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Erol</h1>
+<h3 align="center">Frontend Developer • UI/UX Oriented • Web Performance Enthusiast</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/next-dot-js.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/vuetify.svg" height="30" alt="vuetify logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/antdesign.svg" height="30" alt="antdesign.svg logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bootstrap.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tailwindcss.svg" height="30" alt="tailwindcss logo"  />
-</div>
+<!-- Tech Icons -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="48" alt="Nuxt" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
+  <img src="https://avatars.githubusercontent.com/u/110454672?s=200&v=4" height="48" alt="Turborepo" />
+</p>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/erol-senol/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:erolsnl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+### 🚀 About Me
+- 🌱 I’m currently focused on **modern frontend ecosystems**  
+- 💚 I love working with **Vue/Nuxt** & **React/Next.js**  
+- ⚡ Interested in **design systems, performance optimisation, monorepo setups**  
+- 🧩 Building with **TypeScript** and **Turborepo** for scalable architectures  
+
+---
+
+### 🛠️ Tech Stack
+
+#### **Frontend**
+- Vue 2/3, Nuxt 2/3  
+- React, Next.js  
+- TailwindCSS, SCSS, UI Libraries  
+
+#### **Tools & Others**
+- TypeScript  
+- Turborepo  
+- Vite, Webpack  
+- Git & GitHub  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erolsnl&theme=tokyonight&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erolsnl&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 📫 Contact  
+- ✉️ **erolsnl@gmail.com**  
+- 🌐 Portfolio coming soon...
+
+---
+
+✨ *Feel free to explore my repositories and connect!*
