@@ -13,6 +13,7 @@ I care about scalable frontend architecture, design systems, accessibility, perf
 
 ## Selected projects
 
+- [Frontend Production Starter](https://github.com/erolsenol/frontend-production-starter) — Public Next.js + TypeScript admin starter with a Turborepo package architecture, typed contracts, permissions, testing, and responsive UI.
 - [Market Minimum Price Search Extension](https://github.com/erolsenol/market-minimum-price-search-extension) — TypeScript/Vue browser extension with Manifest V3.
 - [Monaco Language Client](https://github.com/erolsenol/monaco-language-client) — TypeScript-based Monaco editor and language-client work.
 - [Vue Prisma Product App](https://github.com/erolsenol/vue-prisma-product-app) — Vue and Prisma product application.
