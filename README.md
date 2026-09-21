@@ -1,55 +1,32 @@
-<!-- Banner -->
-<h1 align="center">Hi 👋, I'm Erol</h1>
-<h3 align="center">Frontend Developer • UI/UX Oriented • Web Performance Enthusiast</h3>
+# Hi, I'm Erol Senol 👋
 
-<!-- Tech Icons -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="48" alt="Vue" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="48" alt="Nuxt" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
-  <img src="https://avatars.githubusercontent.com/u/110454672?s=200&v=4" height="48" alt="Turborepo" />
-</p>
+Frontend Engineer building production-grade web applications with TypeScript, React/Next.js, and Vue/Nuxt.
 
----
+I care about scalable frontend architecture, design systems, accessibility, performance, and maintainable developer experiences.
 
-### 🚀 About Me
-- 🌱 I’m currently focused on **modern frontend ecosystems**  
-- 💚 I love working with **Vue/Nuxt** & **React/Next.js**  
-- ⚡ Interested in **design systems, performance optimisation, monorepo setups**  
-- 🧩 Building with **TypeScript** and **Turborepo** for scalable architectures  
+## What I work with
 
----
+- **Frontend:** React, Next.js, Vue, Nuxt, TypeScript
+- **Architecture:** Design systems, component APIs, monorepos, state management
+- **Quality:** Testing, accessibility, performance optimization, CI/CD
+- **Tooling:** Turborepo, Vite, Webpack, Tailwind CSS, GitHub Actions
 
-### 🛠️ Tech Stack
+## Selected projects
 
-#### **Frontend**
-- Vue 2/3, Nuxt 2/3  
-- React, Next.js  
-- TailwindCSS, SCSS, UI Libraries  
+- [Market Minimum Price Search Extension](https://github.com/erolsenol/market-minimum-price-search-extension) — TypeScript/Vue browser extension with Manifest V3.
+- [Monaco Language Client](https://github.com/erolsenol/monaco-language-client) — TypeScript-based Monaco editor and language-client work.
+- [Vue Prisma Product App](https://github.com/erolsenol/vue-prisma-product-app) — Vue and Prisma product application.
+- [Node.js File Server](https://github.com/erolsenol/nodejs-file-server) — Small Node.js file-serving project.
 
-#### **Tools & Others**
-- TypeScript  
-- Turborepo  
-- Vite, Webpack  
-- Git & GitHub  
+## Currently focused on
 
----
+- Building reliable multilingual and data-rich web products
+- Improving frontend architecture and shared UI contracts
+- Making performance, accessibility, and testing part of the delivery workflow
 
-### 📊 GitHub Stats
+## Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erolsnl&theme=tokyonight&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erolsnl&layout=compact&theme=tokyonight" height="150" />
-</p>
+- [LinkedIn](https://www.linkedin.com/in/erol-senol/)
+- [GitHub](https://github.com/erolsenol)
 
----
-
-### 📫 Contact  
-- ✉️ **erolsnl@gmail.com**  
-- 🌐 Portfolio coming soon...
-
----
-
-✨ *Feel free to explore my repositories and connect!*
+Feel free to explore the repositories or connect with me.
