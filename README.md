@@ -17,7 +17,7 @@ I care about scalable frontend architecture, design systems, accessibility, perf
 - [Market Minimum Price Search Extension](https://github.com/erolsenol/market-minimum-price-search-extension) — TypeScript/Vue browser extension with Manifest V3.
 - [Monaco Language Client](https://github.com/erolsenol/monaco-language-client) — TypeScript-based Monaco editor and language-client work.
 - [Vue Prisma Product App](https://github.com/erolsenol/vue-prisma-product-app) — Vue and Prisma product application.
-- [Node.js File Server](https://github.com/erolsenol/nodejs-file-server) — Small Node.js file-serving project.
+- [Node.js File Server](https://github.com/erolsenol/nodejs-file-server) — Open-source modular Node.js file server and production starter kit with typed Core, Fastify adapter, secure local storage, Docker, tests, and CI.
 
 ## Currently focused on
 
