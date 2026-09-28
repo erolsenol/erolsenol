@@ -13,6 +13,7 @@ I care about scalable frontend architecture, design systems, accessibility, perf
 
 ## Selected projects
 
+- [Mailbridge](https://github.com/erolsenol/mailbridge) — TypeScript email sending package for Node.js with Resend, Brevo, and SMTP adapters.
 - [Frontend Production Starter](https://github.com/erolsenol/frontend-production-starter) — Public Next.js + TypeScript starter kit with minimal, dashboard, typed data, forms, tables, auth boundaries, docs, testing, and reusable packages.
 - [Market Minimum Price Search Extension](https://github.com/erolsenol/market-minimum-price-search-extension) — TypeScript/Vue browser extension with Manifest V3.
 - [Monaco Language Client](https://github.com/erolsenol/monaco-language-client) — TypeScript-based Monaco editor and language-client work.
