@@ -28,6 +28,7 @@ I care about scalable frontend architecture, design systems, accessibility, perf
 
 ## Connect
 
+- [Portfolio](https://erolsenol.github.io/)
 - Email: [erolsnl@gmail.com](mailto:erolsnl@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/erol-senol/)
 - [GitHub](https://github.com/erolsenol)
