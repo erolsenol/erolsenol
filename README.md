@@ -1,30 +1,26 @@
 # Hi, I'm Erol Senol 👋
 
-Frontend Engineer building production-grade web applications with TypeScript, React/Next.js, and Vue/Nuxt.
+I build reliable web products and the frontend foundations behind them with **TypeScript, React, Next.js, Vue, and Nuxt**. My work focuses on clear component and package boundaries, accessible interfaces, and maintainable systems that teams can extend with confidence.
 
-I care about scalable frontend architecture, design systems, accessibility, performance, and maintainable developer experiences.
+## Selected work
 
-## What I work with
+- [Frontend Production Starter](https://github.com/erolsenol/frontend-production-starter) — A Next.js and TypeScript monorepo for typed, accessible admin products, with reusable packages, a minimal app example, and CI-ready checks.
+- [image-craft-service](https://github.com/erolsenol/image-craft-service) — A self-hosted image-processing API with a TypeScript client, caching, batch jobs, and security controls for remote image handling.
+- [TypedMailer](https://github.com/erolsenol/typedmailer) — A type-safe Node.js email library that gives applications one API for Resend, Brevo, Postmark, SendGrid, Mailgun, Amazon SES, and SMTP.
+- [Market Minimum Price Search Extension](https://github.com/erolsenol/market-minimum-price-search-extension) — A TypeScript and Vue browser extension built with Manifest V3.
 
-- **Frontend:** React, Next.js, Vue, Nuxt, TypeScript
-- **Architecture:** Design systems, component APIs, monorepos, state management
-- **Quality:** Testing, accessibility, performance optimization, CI/CD
+## Core areas
+
+- **Product UI:** React, Next.js, Vue, Nuxt, TypeScript
+- **Frontend systems:** component APIs, design systems, monorepos, state management
+- **Quality and delivery:** accessibility, testing, performance, CI/CD
 - **Tooling:** Turborepo, Vite, Webpack, Tailwind CSS, GitHub Actions
 
-## Selected projects
+## Current interests
 
-- [Mailbridge](https://github.com/erolsenol/mailbridge) — TypeScript email sending package for Node.js with Resend, Brevo, and SMTP adapters.
-- [Frontend Production Starter](https://github.com/erolsenol/frontend-production-starter) — Public Next.js + TypeScript starter kit with minimal, dashboard, typed data, forms, tables, auth boundaries, docs, testing, and reusable packages.
-- [Market Minimum Price Search Extension](https://github.com/erolsenol/market-minimum-price-search-extension) — TypeScript/Vue browser extension with Manifest V3.
-- [Monaco Language Client](https://github.com/erolsenol/monaco-language-client) — TypeScript-based Monaco editor and language-client work.
-- [Vue Prisma Product App](https://github.com/erolsenol/vue-prisma-product-app) — Vue and Prisma product application.
-- [Node.js File Server](https://github.com/erolsenol/nodejs-file-server) — Open-source modular Node.js file server and production starter kit with typed Core, Fastify adapter, secure local storage, Docker, tests, and CI.
-
-## Currently focused on
-
-- Building reliable multilingual and data-rich web products
-- Improving frontend architecture and shared UI contracts
-- Making performance, accessibility, and testing part of the delivery workflow
+- Building multilingual, data-rich products with dependable user experiences
+- Designing shared UI and package contracts that stay easy to evolve
+- Making accessibility, performance, and automated checks part of everyday delivery
 
 ## Connect
 
@@ -32,5 +28,3 @@ I care about scalable frontend architecture, design systems, accessibility, perf
 - Email: [erolsnl@gmail.com](mailto:erolsnl@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/erol-senol/)
 - [GitHub](https://github.com/erolsenol)
-
-Feel free to explore the repositories or connect with me.
