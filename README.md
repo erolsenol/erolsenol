@@ -16,3 +16,11 @@ I build frontend systems that help teams ship dependable web products. My focus 
 | [DeployWitness](https://github.com/erolsenol/deploy-witness) | A CLI and GitHub Action that checks whether the expected commit is publicly reachable. |
 
 The [portfolio](https://erolsenol.github.io/) has concise case studies and links to source code. Older public repositories remain available as historical examples; their README files state their maintenance status.
+
+## Recent maintenance
+
+The [public maintenance log](https://erolsenol.github.io/releases/) links source releases and their validation notes across my active projects. Recent work covers browser storage recovery, HTTP cancellation cleanup, safe message and header boundaries, concurrent file uploads, and cache expiration handling.
+
+- [TypedMailer v2.1.1](https://github.com/erolsenol/typedmailer/releases/tag/v2.1.1): email header validation and regression coverage.
+- [Frontend Production Starter v0.16.1](https://github.com/erolsenol/frontend-production-starter/releases/tag/v0.16.1): request cleanup, caller headers, dependency patches and browser checks.
+- [DeployWitness v0.5.1](https://github.com/erolsenol/deploy-witness/releases/tag/v0.5.1): strict decoding of provider deployment evidence.
